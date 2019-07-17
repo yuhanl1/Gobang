@@ -1,0 +1,9 @@
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\bin\Debug\ManMachine.exe.config
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\bin\Debug\ManMachine.exe
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\bin\Debug\ManMachine.pdb
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.ManMachine.resources
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.Properties.Resources.resources
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.csproj.GenerateResource.Cache
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.exe
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.pdb
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\ManMachine\obj\Debug\ManMachine.csprojResolveAssemblyReference.cache

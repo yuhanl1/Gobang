@@ -1,0 +1,12 @@
+E:\LiuYuhan\Study\USTB\Junior\GoBang\MainBoard\MainBoard\bin\Debug\MainBoard.exe.config
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\bin\Debug\MainBoard.exe.config
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\bin\Debug\MainBoard.exe
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\bin\Debug\MainBoard.pdb
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.csprojResolveAssemblyReference.cache
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.MainBoard.resources
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.Properties.Resources.resources
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.csproj.GenerateResource.Cache
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.exe
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\obj\Debug\MainBoard.pdb
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\bin\Debug\ManMachine.exe
+E:\LiuYuhan\Study\USTB\Junior\GoBang\GoBang\MainBoard\bin\Debug\ManMachine.pdb
